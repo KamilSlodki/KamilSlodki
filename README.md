@@ -14,7 +14,7 @@ Diseño y opero sistemas AI · Data · Automation en producción real para clien
 **Productos propios destacados**:
 
 - [`selloqr-showcase`](https://github.com/KamilSlodki/selloqr-showcase) — SaaS B2B fiscal en producción AEAT real · 82 ADRs · 4 000+ tests · 0 fugas cross-tenant.
-- [`sanctionverify-showcase`](https://github.com/KamilSlodki/sanctionverify-showcase) — Plataforma multi-tenant de trade compliance con 4 motores AI distintos (matching fuzzy ensemble + NLP geopolítico + Prophet forecasting + Pareto multi-criteria).
+- [`lynxaris-showcase`](https://github.com/KamilSlodki/lynxaris-showcase) — **Lynxaris.com — Trade Risk Intelligence**. Plataforma multi-tenant de trade compliance con 4 motores AI distintos (matching fuzzy ensemble + NLP geopolítico + Prophet forecasting + Pareto multi-criteria).
 
 **Case-studies cliente representativos (anonimizados bajo NDA)**:
 
